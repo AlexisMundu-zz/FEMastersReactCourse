@@ -12,7 +12,7 @@ const SearchParams = () => {
     <div className="search-params">
       <form>
         <label htmlFor="location">
-          <h1>{location}</h1>
+          Location
           <input
             type="text"
             id="location"
